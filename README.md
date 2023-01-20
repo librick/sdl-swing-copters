@@ -7,7 +7,7 @@ Article on the original game: https://en.wikipedia.org/wiki/Swing_Copters
 
 ## Legal Stuff
 Don't sue me. Any assets taken from the original game are for personal use only.
-The code is MIT licensed but I don't own the rights to Swing Copters
-nor am I affiliated with the Swing Copter devs in any way.
+The code in this repo is MIT licensed but I don't own the rights to *Swing Copters*
+nor am I affiliated with the *Swing Copters* devs in any way.
 
 MIT licensed, pull requests welcome 🏗️🐦
